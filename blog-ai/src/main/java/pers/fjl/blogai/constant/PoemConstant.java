@@ -2,6 +2,7 @@ package pers.fjl.blogai.constant;
 
 /**
  * 调用python脚本方法类型常量
+ * 这是我刚引入这个项目的时候添加的
  */
 public class PoemConstant {
     public static final String RandomPoem = "1";//随机生成古诗
